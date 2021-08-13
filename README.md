@@ -12,6 +12,8 @@ Dataset Comparison.ipynb  -> Comparing performance of models trained on differen
 MobileNetV2.py            -> implement MobileNet V2 architecture with PyTorch <br>
 MobileNetV2_mask_fulldata -> Final Model  <br>
 
+## Pipeline:
+![image](https://github.com/riccardozzz/DL_Final_Proj/blob/main/Images/pipeline.png)
 
 ## YOLOv5 Face & Mask Detection:
 Detection instructions are in 'yolov5_face_detection.ipynb', download YOLOv5 from github <br>
