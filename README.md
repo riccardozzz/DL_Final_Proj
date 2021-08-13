@@ -30,3 +30,14 @@ https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv
 
 **Video:**
 https://youtu.be/jXvMSskHRbo
+
+## Things Need to Improve:
+**Face Detection is not stable under poor light condition:**<br>
+https://youtu.be/b_ydhvaXcG4
+**Wrong classification when mouth is coverd:**<br>
+https://youtu.be/YopM2upd0iQ
+**High latency for the YOLOv5 model:**<br>
+https://youtu.be/Mr98Dw70jJk
+
+## Conclusion:
+YOLOv5's performance is better than FaceNet+MobileNetv2 combined. Using image with bounding box and labels can obtrain a better model, whereas this type of dataset is often much less than image with label dataset. The whole bottleneck of face and mask detection is the limitation of dataset, images under different conditions can be added in the future to train a more powerful mask detection model.
