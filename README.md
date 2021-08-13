@@ -34,8 +34,10 @@ https://youtu.be/jXvMSskHRbo
 ## Things Need to Improve:
 **Face Detection is not stable under poor light condition:**<br>
 https://youtu.be/b_ydhvaXcG4
+
 **Wrong classification when mouth is coverd:**<br>
 https://youtu.be/YopM2upd0iQ
+
 **High latency for the YOLOv5 model:**<br>
 https://youtu.be/Mr98Dw70jJk
 
